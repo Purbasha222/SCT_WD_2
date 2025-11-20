@@ -27,4 +27,4 @@ This project demonstrates state management, interval handling, and component-bas
 
 🚀 **Live Demo**
 
-**Live URL:**
+**Live URL:** https://sct-wd-2.netlify.app/
