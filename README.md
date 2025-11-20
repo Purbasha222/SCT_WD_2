@@ -1,16 +1,30 @@
-# React + Vite
+⏱️ **React Stopwatch App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight and responsive Stopwatch application built with React.
+This project demonstrates state management, interval handling, and component-based UI using React hooks.
 
-Currently, two official plugins are available:
+✨ **Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Start / Pause / Reset functionality
 
-## React Compiler
+- Time tracking in minutes, seconds, and milliseconds
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Built with React Hooks (useState, useEffect)
 
-## Expanding the ESLint configuration
+- Smooth and accurate timer updates
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive UI for all screen sizes
+
+- Clean and minimal design
+
+🛠️ **Technologies Used**
+
+- React.js
+
+- Vite (or CRA if you're using it — tell me to update)
+
+- TailwindCSS
+
+🚀 **Live Demo**
+
+**Live URL:**
