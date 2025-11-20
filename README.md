@@ -5,7 +5,7 @@ This project demonstrates state management, interval handling, and component-bas
 
 ✨ **Features**
 
-- Start / Pause / Reset functionality
+- Start / Pause / Reset / Lap functionality
 
 - Time tracking in minutes, seconds, and milliseconds
 
@@ -21,7 +21,7 @@ This project demonstrates state management, interval handling, and component-bas
 
 - React.js
 
-- Vite (or CRA if you're using it — tell me to update)
+- Vite 
 
 - TailwindCSS
 
